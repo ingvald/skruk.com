@@ -14,6 +14,29 @@
         padding-top: 60px;
         padding-bottom: 40px;
       }
+	  
+	@media (min-width: 300px;) {
+		img.big { display: block;}
+		img.middle { display: none;}
+		img.small { display: none;}
+	}
+
+	@media (max-width: 300px; min-width: 150px) {
+		img.big { display: none;}
+		img.middle { display: block;}
+		img.small { display: none;}
+	}
+
+	@media (min-width: 150px;) {
+		img.big { display: none;}
+		img.middle { display: none;}
+		img.small { display: block;}
+	}
+
+	.hero-unit {
+		padding: 30px;
+	}
+	
     </style> 
     <link href="css/bootstrap-responsive.css" rel="stylesheet"> 
  
@@ -37,11 +60,6 @@
     <div class="navbar navbar-fixed-top"> 
       <div class="navbar-inner"> 
         <div class="container"> 
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> 
-            <span class="icon-bar"></span> 
-            <span class="icon-bar"></span> 
-            <span class="icon-bar"></span> 
-          </a> 
           <a class="brand" href="http://skruk.com">SKRUK</a> 
 
 	    </div> 
@@ -49,18 +67,20 @@
     </div> 
  
     <div class="container"> 
- 
+
+		<img src="img/logo.png" style="float:right" />
+	
       <!-- Main hero unit for a primary marketing message or call to action --> 
       <div class="hero-unit"> 
-
+		
 		<p>SKRUK is recognized as one of the leading choirs in Norway, and have toured many parts of the world.
 		</p>
-				
+		
       </div> 
  
       <!-- Example row of columns --> 
       <div class="row"> 
-        <div class="span6"> 
+        <div class="span4"> 
           <h2>Norwegian Website</h2> 
 
 		  <p>Our main website is at <a href="http://skruk.no">skruk.no</a> (in Norwegian).  
@@ -73,7 +93,7 @@
 		  <a class="btn" href="http://www.skruk.no/?slang=1">News in English &raquo;</a></p> 
         </div> 
 
-        <div class="span6"> 
+        <div class="span4"> 
           <h2>Facebook page</h2> 
            <p>We have a Facebook Page at <a href="http://facebook.com/skrukchoir">facebook.com/skrukchoir</a>.
 		   </p>
@@ -83,6 +103,13 @@
           <p><a class="btn" href="http://facebook.com/skrukchoir">Facebook Page &raquo;</a></p> 
        </div> 
 
+        <div class="span4"> 
+	   
+	   		<img class="big" src="img/prots.jpg" >
+			<img class="middle" src="img/prots2.jpg" >
+			<img class="small" src="img/prots3.jpg" >
+
+		</div>
       </div> 
  
       <hr> 
