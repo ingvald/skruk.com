@@ -5,10 +5,12 @@
 
 @media screen and (min-width: 64em){
  .main-content, .wrapper, section {
-      max-width: 90%;
+     width: 700px;
+     max-width: 90%;
 	 padding: 1rem;
 	 margin:30px auto;
  }
+
 }
 .bilde{ width:40%;max-width:40%;clear:both;}
 #header{margin-top:10px!important;}
