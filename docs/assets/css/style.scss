@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (min-width: 64em){
+ .main-content, .wrapper, section {
+      max-width: 90%;
+	 padding: 1rem;
+	 margin:30px auto;
+ }
+}
+.bilde{ width:40%;max-width:40%;clear:both;}
+#header{margin-top:10px!important;}
+
+.site-footer-owner, .site-footer-credits, .page-header .btn,
+.credits, .fork {
+ display: none;
+ visibility: hidden;
+}
+
+body {
+  font-size: medium;
+}
+
+a {
+  text-decoration: underline;
+}
