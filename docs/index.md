@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ingvald/skruk.com/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+> SKRUK is recognized as one of the leading choirs in Norway, and has toured many parts of the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Music
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://skruk.no/om/diskografi/
 
-```markdown
-Syntax highlighted code block
+Most of our records 
+https://open.spotify.com/artist/0naaONQQ6PY5csJVlOXWEd
 
-# Header 1
-## Header 2
-### Header 3
+https://tidal.com/browse/artist/20214
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Info, social media
 
-**Bold** and _Italic_ and `Code` text
+We have a Facebook Page at facebook.com/skrukchoir.
+http://facebook.com/skrukchoir
 
-[Link](url) and ![Image](src)
-```
+We're also on Instagram.
+https://www.instagram.com/skrukchoir/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See Wikipedia for more info.
+https://en.wikipedia.org/wiki/SKRUK
 
-### Jekyll Themes
+## Norwegian Website
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingvald/skruk.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our main website is at skruk.no (in Norwegian).
 
-### Support or Contact
+## On tour
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**2024**
+
+December -24: ...
